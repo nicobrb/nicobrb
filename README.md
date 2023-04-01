@@ -7,7 +7,7 @@
 🎓 Training set:
 
 I studied and graduated with Honors (fitting!) in Computer Science at University of Bari - Aldo Moro (Italy).
-I focused on developing my knowledge in Machine Learning, Knowledge Engineering, Computer Vision, and other CS-related fields. 
+I focused on developing my knowledge in Machine Learning, Knowledge Engineering, Computer Vision, and other CS-related fields. I also had the opportunity to perform some Data Augmentation with an in-course Internship with Samsung Innovation Campus, where I had the chance to understand the main concepts and issues in the IOT industry from a different perspective. 
 
 📝 Validation set:  
 
